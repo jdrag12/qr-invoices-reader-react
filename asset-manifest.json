@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/qr-invoices-reader-react/static/css/main.fa9560a5.chunk.css",
-    "main.js": "/qr-invoices-reader-react/static/js/main.e495e2aa.chunk.js",
-    "main.js.map": "/qr-invoices-reader-react/static/js/main.e495e2aa.chunk.js.map",
+    "main.js": "/qr-invoices-reader-react/static/js/main.d5fb6b0a.chunk.js",
+    "main.js.map": "/qr-invoices-reader-react/static/js/main.d5fb6b0a.chunk.js.map",
     "runtime-main.js": "/qr-invoices-reader-react/static/js/runtime-main.f2f0437f.js",
     "runtime-main.js.map": "/qr-invoices-reader-react/static/js/runtime-main.f2f0437f.js.map",
-    "static/js/2.179452dd.chunk.js": "/qr-invoices-reader-react/static/js/2.179452dd.chunk.js",
-    "static/js/2.179452dd.chunk.js.map": "/qr-invoices-reader-react/static/js/2.179452dd.chunk.js.map",
+    "static/js/2.d9345197.chunk.js": "/qr-invoices-reader-react/static/js/2.d9345197.chunk.js",
+    "static/js/2.d9345197.chunk.js.map": "/qr-invoices-reader-react/static/js/2.d9345197.chunk.js.map",
     "index.html": "/qr-invoices-reader-react/index.html",
     "static/css/main.fa9560a5.chunk.css.map": "/qr-invoices-reader-react/static/css/main.fa9560a5.chunk.css.map",
-    "static/js/2.179452dd.chunk.js.LICENSE.txt": "/qr-invoices-reader-react/static/js/2.179452dd.chunk.js.LICENSE.txt",
+    "static/js/2.d9345197.chunk.js.LICENSE.txt": "/qr-invoices-reader-react/static/js/2.d9345197.chunk.js.LICENSE.txt",
     "static/media/logo.eb717ff9.svg": "/qr-invoices-reader-react/static/media/logo.eb717ff9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2f0437f.js",
-    "static/js/2.179452dd.chunk.js",
+    "static/js/2.d9345197.chunk.js",
     "static/css/main.fa9560a5.chunk.css",
-    "static/js/main.e495e2aa.chunk.js"
+    "static/js/main.d5fb6b0a.chunk.js"
   ]
 }
