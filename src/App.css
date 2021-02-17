@@ -1,0 +1,38 @@
+:root {
+  --main-color: #312c51;
+  --complementary: #48426d;
+  --secondary: #f0c38e;
+  --gray: #f5f5f5;
+  --gray-dark: #616060;
+}
+
+section {
+  padding: 2em;
+}
+
+header {
+  padding: 1em;
+  width: 100%;
+  max-width: 1200px;
+  margin: 1em auto;
+}
+
+.body__container {
+  max-width: 1600px;
+  margin: 1em auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.body__container--tight {
+  max-width: 800px;
+}
+
+@media (min-width: 1920px) {
+  .body__container--tight {
+    max-width: 1200px;
+  }
+  header {
+    max-width: 1600px;
+  }
+}

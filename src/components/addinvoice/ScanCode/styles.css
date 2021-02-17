@@ -1,0 +1,46 @@
+h1 {
+  font-size: 42px;
+}
+
+.video__container,
+.button__container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.button__container {
+  padding: 1em;
+}
+
+video {
+  max-width: 500px;
+  width: 100%;
+  border-radius: 1%;
+  box-shadow: 0 0 4px 0 var(--gray);
+}
+
+.error {
+  color: red;
+}
+
+@keyframes rollin {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.roll-in {
+  animation: rollin 3s;
+}
+
+@media (min-width: 1920px) {
+  video {
+    max-width: 640px;
+  }
+}

@@ -1,0 +1,20 @@
+.arrow__container {
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--gray);
+}
+
+.arrow__container:hover {
+  background-color: var(--gray);
+  box-shadow: 0 0 4px 0 var(--gray);
+}
+
+.arrow__container span {
+  color: var(--gray-dark);
+  font-size: 1.3rem;
+}

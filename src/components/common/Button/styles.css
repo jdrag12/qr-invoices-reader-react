@@ -1,0 +1,30 @@
+button {
+  width: 100%;
+  background-color: white;
+  cursor: pointer;
+  max-width: 200px;
+  padding: 1em;
+  font-size: 1rem;
+  border: 1px solid var(--main-primary);
+  border-radius: 3px;
+  margin: 1em;
+}
+
+.button--primary {
+  background-color: var(--complementary);
+  color: white;
+}
+
+.button--secondary {
+  background-color: var(--gray);
+  color: var(--complementary);
+  border: 1px solid var(--complementary);
+}
+
+button:disabled,
+button[disabled] {
+  cursor: not-allowed;
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
